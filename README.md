@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi, I'm Sachin Nayak 👋
 
-<!--
-**sachinn-nayak/sachinn-nayak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend-Focused Full Stack Developer
 
-Here are some ideas to get you started:
+## Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- NestJS
+- Node.js
+- TypeScript
+- PostgreSQL
+- MongoDB
+- Redis
+- Docker
+- AWS
+- React Native
+- Next.js
+
+## What I Build
+
+- SaaS Platforms
+- Enterprise Applications
+- REST APIs
+- E-Way Bill & E-Invoice Integrations
+- HRMS Systems
+- Mobile Applications
+
+## Featured Projects
+
+### Skadi AI Voice SaaS
+Multi-tenant AI voice platform built with NestJS and PostgreSQL.
+
+### Dygus ERP
+E-commerce and ERP backend with E-Way Bill and E-Invoice integrations.
+
+### Criminal Profiling System
+NestJS + MongoDB backend system for criminal record management.
+
+## Contact
+
+📧 sachinnayak9108@gmail.com
+
+🔗 LinkedIn: linkedin.com/in/sachin-nayak-169b85288
