@@ -2,41 +2,26 @@
 
 Backend-Focused Full Stack Developer
 
-## Tech Stack
+## 🚀 Tech Stack
 
-- NestJS
-- Node.js
-- TypeScript
-- PostgreSQL
-- MongoDB
-- Redis
-- Docker
-- AWS
-- React Native
-- Next.js
+NestJS • Node.js • TypeScript • PostgreSQL • MongoDB • Redis • Docker • AWS • React Native • Next.js
 
-## What I Build
+## 💼 Experience
 
-- SaaS Platforms
-- Enterprise Applications
-- REST APIs
+- Building SaaS & Enterprise Applications
+- REST API Development
 - E-Way Bill & E-Invoice Integrations
-- HRMS Systems
-- Mobile Applications
+- HRMS & ERP Systems
+- CI/CD & Cloud Deployments
 
-## Featured Projects
+## 📌 Featured Projects
 
-### Skadi AI Voice SaaS
-Multi-tenant AI voice platform built with NestJS and PostgreSQL.
+- Skadi AI Voice SaaS Platform
+- Dygus ERP System
+- Criminal Profiling System
+- Event Booking Admin Panel
 
-### Dygus ERP
-E-commerce and ERP backend with E-Way Bill and E-Invoice integrations.
+## 📫 Connect
 
-### Criminal Profiling System
-NestJS + MongoDB backend system for criminal record management.
-
-## Contact
-
-📧 sachinnayak9108@gmail.com
-
-🔗 LinkedIn: linkedin.com/in/sachin-nayak-169b85288
+- LinkedIn: linkedin.com/in/sachin-nayak-169b85288
+- Email: sachinnayak9108@gmail.com
