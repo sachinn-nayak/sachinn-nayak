@@ -58,17 +58,16 @@ Building scalable SaaS platforms, enterprise applications, and cloud-native back
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sachinn-nayak&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachinn-nayak&layout=compact&theme=tokyonight" />
+</p>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=sachinn-nayak&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachinn-nayak&theme=tokyonight&hide_border=true&layout=compact" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sachinn-nayak&theme=tokyonight&hide_border=true" />
-
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sachinn-nayak&theme=tokyonight" />
+</p>
 
 ---
 
